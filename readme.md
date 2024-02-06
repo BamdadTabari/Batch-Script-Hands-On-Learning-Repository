@@ -6,3 +6,5 @@
 >In each folder, there are one or more practice files and a training file.
 >I hope you enjoy this tutorial.
 >If you have any questions. Be sure to connect with me on LinkedIn.
+>
+> my linkedin => https://www.linkedin.com/in/bamdad-tabari/
