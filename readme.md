@@ -1,4 +1,4 @@
-## Hello And Wellcome To Batch Script Hands-On-Learning Repositoriy
+## Hello And Welcome To Batch Script Hands-On-Learning Repository
 
 >This repository is made to teach you
 >There are 25 sessions (I removed numbers 1 and 2 because they were not important)
